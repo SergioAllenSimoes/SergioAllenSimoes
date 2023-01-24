@@ -17,7 +17,7 @@
 
 ### About me: 
 
-I want to desenvolv my habillitys on programation and to prove my self what can i do it.
+I want to develop my habillitys on programation and to prove my self what can i do it.
 
 - 🔭 I’m currently working on Front-End
 - 🌱 I’m currently learning Kotlin and Java
